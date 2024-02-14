@@ -517,3 +517,5 @@ $discard,site=pontofrio.com.br
 $discard,site=ethic.es
 $discard,site=sites.google.com
 $discard,site=soundcloud.com
+$discard,site=amazon.com
+$discard,site=ebay.com
