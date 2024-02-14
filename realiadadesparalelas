@@ -93,7 +93,7 @@ $boost=1,site=vozpopuli.com
 /fiat/$boost=5
 
 ! Discard factcheckers
-$discard,contains=falso
+/falso/$discard
 $discard=1 mentira
 $discard=1 falso
 $discard=1 mentira
