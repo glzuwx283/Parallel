@@ -12,6 +12,12 @@ $site=eir.news,boost=7
 $site=larouchepub.com,boost=7
 $site=wallstreetonparade.com,boost=6
 $site=wolfstreet.com,boost=5
+$site=naturalnews.com,boost=4
+
+!Specific search terms boosting
+$keyword = "(vaccine | graphene)"
+$site = "naturalnews\.com"
+$(containing:$keyword):$site=$boost=4
 
 ! Generic boosting
 *rust*$boost=6,site=wallstreetonparade.com
