@@ -129,10 +129,14 @@ $boost=1,site=vozpopuli.com
 /r/verificando/$discard
 /r/verifica/$discard
 /r/verificar/$discard
+/r/nunca/$discar
+/r/latino/$discar
 /check/$discard
 /verificando/$discard
 /verifica/$discard
 /verificar/$discard
+/nunca/$nunca
+/latino/$nunca
 
 ! Downgrade certain websites
 $downrank,site=libertaddigital.com
@@ -350,3 +354,7 @@ $discard,site=efe.es
 $discard,site=verificacion.cat
 $discard,site=factcheck.org
 $discard,site=factchequeado.com
+$discard,site=cotejo.info
+$discard,site=dpa-shop.com
+$discard,site=consalud.es
+$discard,site=eltiempolatino.com
