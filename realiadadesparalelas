@@ -96,6 +96,9 @@ $boost=1,site=vozpopuli.com
 ! Discard factcheckers
 /r/falso/$discard
 /r/FALSO/$discard
+/r/Fact/$discard
+/r/Check/$discard
+/r/Fact Check/$discard
 /r/falso/$discard
 /r/verifica/$discard
 /r/mentira/$discard
@@ -120,8 +123,11 @@ $boost=1,site=vozpopuli.com
 /r/tribuna/$discard
 /r/diario/$discard
 /r/no/$discard
-
+/r/factual/$discard
+/r/nunca/$discard
+/r/afirmado/$discard
 /check/$discard
+/$block,html*fact*
 
 
 ! Downgrade certain websites
@@ -150,6 +156,8 @@ $discard,site=cope.es
 .eus$discard
 .uy$discard
 .cl$discard
+.cat$discard
+.pt$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -328,3 +336,12 @@ $discard,site=iris.paho.org
 $discard,site=youtube.com
 $discard,site=eluniverso.com
 $discard,site=heraldo.es
+$discard,site=factual.afp.com
+$discard,site=maldita.es
+$discard,site=newtral.es
+$discard,site=saludsinbulos.com
+$discard,site=toolbox.google.com
+$discard,site=poligrafo.sapo.pt
+$discard,site=efe.es
+$discard,site=verificacion.cat
+$discard,site=factcheck.org
