@@ -140,13 +140,13 @@ $discard,site=cadenaser.com
 $discard,site=cope.es
 
 !Discard certain websites with domains of other coutries
-/r/\.pe$/$discard
-/r/\.ar$/$discard
-/r/\.afr$/$discard
-/r/\.mx$/$discard
-/r/\.bo$/$discard
-/r/\.eus$/$discard
-/r/\.uy$/$discard
+.pe$discard
+.ar$discard
+.afr$discard
+.mx$discard
+.bo$discard
+.eus$discard
+.uy$discard
 
 
 ! Discard ceratain sites
@@ -321,3 +321,4 @@ $discard,site=medicinaysaludpublica.com
 $discard,site=expresonews.com
 $discard,site=independentespanol.com
 $discard,site=tribunasalamanca.com
+$discard,site=redaccionmedica.com
