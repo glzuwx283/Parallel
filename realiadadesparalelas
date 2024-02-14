@@ -6,7 +6,9 @@
 
 ! Boost main websites
 $boost=10,site=mentealternativa.com
+$boost=10,site=terraindomita.blackblogs.org
 $boost=10,site=pildorasantimasoneria.blogspot.com
+$boost=10,site=es.technocracy.news
 $boost=9,site=ejercitoremanente.com
 $boost=9,site=periodistasporlaverdad.com
 $boost=8,site=cybermedios.org
@@ -16,9 +18,7 @@ $boost=8,site=laiberia.es
 $boost=8,site=generalisimofranco.com
 boost=8,site=asivaespana.com
 boost=8,site=espanaenlahistoria.org
-$boost=7,site=es.technocracy.news
 $boost=7,site=mpr21.info
-$boost=7,site=terraindomita.blackblogs.org
 $boost=7,site=adelanteespana.com
 $boost=7,site=joseguzmanhistoria.blogspot.com
 $boost=7,site=attac.es
@@ -519,3 +519,5 @@ $discard,site=sites.google.com
 $discard,site=soundcloud.com
 $discard,site=amazon.com
 $discard,site=ebay.com
+$discard,site=elcaribe.com.do
+$discard,site=abebooks.com
