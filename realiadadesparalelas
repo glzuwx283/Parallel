@@ -225,7 +225,8 @@ $downrank,site=libertaddigital.com
 $downrank,site=libremercado.com
 $downrank,site=okdiario.com
 $downrank,site=bibliotecapleyades.net
-
+$downrank,site=evangelicodigital.com
+$downrank,site=cesarvidal.com
 
 
 ! Discard major news websites
@@ -529,3 +530,7 @@ $discard,site=ebay.com
 $discard,site=elcaribe.com.do
 $discard,site=abebooks.com
 $discard,site=libertadusa.com
+$discard,site=latinoamerica21.com
+$discard,site=amazon.co.uk
+$discard,site=elmundofinanciero.com
+$discard,site=iberdrola.com
