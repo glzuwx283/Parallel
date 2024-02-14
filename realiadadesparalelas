@@ -94,22 +94,21 @@ $boost=1,site=vozpopuli.com
 
 ! Discard factcheckers
 /falso/$discard
-$discard=1 mentira
-$discard=1 falso
-$discard=1 mentira
-$discard=1 conspiración
-$discard=1 conspiracy
-$discard=1 factcheck
-$discard=1 false
-$discard=1 es falso que
-$discard=1 ninguna de 
-$discard=1 ninguna
-$discard=1 desinformación 
-$discard=1 teorías de la conspiración
-$discard=1 Si querés estar mejor informado
-$discard=1 fact-checking
-$discard=1 chequeos
-$discard=1 chequeadores
+/mentira/$discard
+/conspiración/$discard
+/conspiracy/$discard
+/fact/$discard
+/check/$discard
+/factcheck/$discard
+/false/$discard
+/lie/$discard
+/desinformación/$discard
+/es-falso-que/$discard
+/ninguna/$discard
+/ninguna-de/$discard
+/fact-checking/$discard
+/comprueba/$discard
+/teoría-de/$discard
 
 ! Downgrade certain websites
 $downrank,site=libertaddigital.com
