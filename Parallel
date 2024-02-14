@@ -1555,3 +1555,10 @@ $discard,site=wpdigital.net
 $discard,site=wsj.com
 $discard,site=wsj.net
 $discard,site=yahoo.com
+
+! Discard keywords
+$discard=5 conspiracy
+$discard=5 factcheck
+$discard=5 myth
+$discard=5 false
+$discard=5 true
