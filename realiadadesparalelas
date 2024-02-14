@@ -42,6 +42,7 @@ $boost=5,site=almendron.com
 $boost=5,site=prevencia.net
 $boost=5,site=quenotelacuenten.org
 $boost=5,site=blogcatolico.com
+$boost=5,site=politicadegaraje.blog
 $boost=5,site=outono.net
 $boost=5,site=invierte.biz
 $boost=5,site=buscandolaverdad.es
@@ -52,6 +53,9 @@ $boost=5,site=mises.org
 $boost=3,site=victimasdelospoliticos.org
 $boost=2,site=libertaddigital.com
 $boost=2,site=vozpopuli.com
+$boost=2,site=okdiario.com
+$boost=2,site=eltorotv.com
+$boost=2,site=naturalnews.com
 
 ! Boost Specific Terms
 /elites/$boost=4
@@ -82,11 +86,6 @@ $discard,site=telecinco.es
 $discard,site=ondacero.es
 $discard,site=cadenaser.com
 $discard,site=cope.es
-
-! Downrank certain sites
-$downrank,site=okdiario.com
-$downrank,site=eltorotv.com
-$downrank,site=naturalnews.com
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
