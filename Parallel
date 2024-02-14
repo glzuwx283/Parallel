@@ -1354,7 +1354,7 @@ $discard,site=dissidentsignposts.org
 $discard,site=healthfeedback.org
 $discard,site=phys.org
 $discard,site=who.int
-$discard,site=snopes.com/fact-check
+$discard,site=snopes.com
 
 $discard,site=factcheck.org
 
@@ -1376,7 +1376,7 @@ $discard,site=truthorfake.com
 
 $discard,site=doubtfulnews.com
 
-$discard,site=theconversation.com/factcheck
+$discard,site=theconversation.com
 
 $discard,site=fullfact.org
 
@@ -1384,9 +1384,10 @@ $discard,site=mediafactcheck.afp.com
 
 $discard,site=mediainfo.de
 
-$discard,site=dukechronicle.com/category/fact-checks
+$discard,site=dukechronicle.com/
 
 $discard,site=fakenewswatchers.com
+
 ! Discard ceratin queries
 /debunked/$discard
 /factcheck/$discard
