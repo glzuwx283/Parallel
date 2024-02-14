@@ -58,25 +58,34 @@ $boost=2,site=eltorotv.com
 $boost=2,site=naturalnews.com
 
 ! Boost Specific Terms
-/elites/$boost=4
-/granreseteo/$boost=4
-/colapso/$boost=4
-/agenda/$boost=4
-/2030/$boost=4
-/corrupcion/$boost=4
-/tiranía/$boost=4
-/CBDC/$boost=4
-/fiat/$boost=4
+/derivative/$boost=9
+/transhumanismo/$boost=5
+/revolución/$boost=5
+/elites/$boost=5
+/granreseteo/$boost=5
+/colapso/$boost=5
+/agenda/$boost=5
+/2030/$boost=5
+/corrupción/$boost=5
+/tiranía/$boost=5
+/CBDC/$boost=5
+/fiat/$boost=5
+
 
 ! Discard factcheckers
-$discard=6 mito
-$discard=6 falso
-$discard=6 mentira
-$discard=6 falso
-$discard=5 conspiracy
-$discard=5 factcheck
-$discard=5 myth
-$discard=5 false
+$discard=2 mito
+$discard=2 falso
+$discard=2 mentira
+$discard=2 falso
+$discard=1 conspiracy
+$discard=1 factcheck
+$discard=1 myth
+$discard=1 false
+
+! Downgrade certain websites
+$downgrade,site=eleconomista.es
+$downgrade,site=libertaddigital.com
+$downgrade,site=libremercado.com
 
 ! Discard major news websites
 $discard,site=rtve.es
@@ -194,7 +203,6 @@ $discard,site=relevo.com
 $discard,site=bernabeudigital.com
 $discard,site=expansion.com
 $discard,site=cincodias.elpais.com
-$discard,site=eleconomista.es
 $discard,site=lainformación.com
 $discard,site=libremercado.com
 $discard,site=diariodecuba.com
