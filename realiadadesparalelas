@@ -29,11 +29,11 @@ $boost=6,site=posmodernia.com
 $boost=6,site=apocalipticus.over-blog.es
 $boost=6,site=mises.org.es
 $boost=6,site=cienciaysaludnatural.com
-$boost=8,site=alertadigital.com
-$boost=8,site=corrupcioncovid.com
-$boost=8,site=briega.org
-$boost=8,site=verdadypaciencia.com
-$boost=8,site=zgrados.com
+$boost=6,site=alertadigital.com
+$boost=6,site=corrupcioncovid.com
+$boost=6,site=briega.org
+$boost=6,site=verdadypaciencia.com
+$boost=6,site=zgrados.com
 $boost=5,site=elimparcial.es
 $boost=5,site=principiosdedolores.com
 $boost=5,site=gaceta.es
