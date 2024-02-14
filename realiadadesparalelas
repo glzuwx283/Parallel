@@ -14,6 +14,8 @@ $boost=8,site=detectivesdeguerra.com
 $boost=8,site=es.sott.net
 $boost=8,site=laiberia.es
 $boost=8,site=generalisimofranco.com
+boost=8,site=asivaespana.com
+boost=8,site=espanaenlahistoria.org
 $boost=7,site=es.technocracy.news
 $boost=7,site=mpr21.info
 $boost=7,site=terraindomita.blackblogs.org
@@ -33,6 +35,7 @@ $boost=6,site=tierrapura.info
 $boost=6,site=apocalipticus.over-blog.es
 $boost=6,site=kontrainfo.com
 $boost=6,site=posmodernia.com
+$boost=6,site=josemariamarco.com
 $boost=6,site=apocalipticus.over-blog.es
 $boost=6,site=mises.org.es
 $boost=6,site=cienciaysaludnatural.com
@@ -55,6 +58,7 @@ $boost=5,site=eldebate.com
 $boost=5,site=almendron.com
 $boost=5,site=prevencia.net
 $boost=5,site=quenotelacuenten.org
+$boost=5,site=geografiainfinita.com
 $boost=5,site=adriw.com
 $boost=5,site=blogcatolico.com
 $discard,site=laquintacolumna.net
@@ -466,3 +470,8 @@ $discard,site=esquinamontevideo.blogspot.com
 $discard,site=ateoyagnostico.com
 $discard,site=dialnet.unirioja.es
 $discard,site=ruedoiberico.org
+$discard,site=newyorker.com
+$discard,site=usatoday.com
+$discard,site=cbssports.com
+$discard,site=history.com
+$discard,site=biography.com
