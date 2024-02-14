@@ -24,6 +24,8 @@ $boost=8,site=cybermedios.org
 $boost=8,site=detectivesdeguerra.com
 $boost=8,site=es.sott.net
 $boost=8,site=laiberia.es
+$boost=8,site=veritasconexion.blogspot.com
+$boost=8,site=geoestrategia.es
 $boost=8,site=generalisimofranco.com
 boost=8,site=asivaespana.com
 boost=8,site=espanaenlahistoria.org
@@ -36,6 +38,7 @@ $boost=7,site=extramurosrevista.com
 $boost=7,site=bitchute.com
 $boost=7,site=odysee.com
 $boost=7,site=rumble.com
+$boost=7,site=rafapal.com
 $boost=6,site=elinvestigador.org
 $boost=6,site=lamentiraestaahifuera.com
 $boost=6,site=voziberica.com
@@ -551,3 +554,8 @@ $discard,site=telefonica.com
 $discard,site=revistas.ucr.ac.cr
 $discard,site=riull.ull.es
 $discard,site=es.linkedin.com
+psicologiaymente.com
+telos.fundaciontelefonica.com
+santanderglobaltech.com
+bbvaopenmind.com
+santandergto.com
