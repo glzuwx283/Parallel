@@ -15,7 +15,7 @@ $site=wolfstreet.com,boost=5
 $site=naturalnews.com,boost=4
 
 !Specific search terms boosting
-$keyword=vaccine
+$keyword="vaccine"
 $site=naturalnews.com
 $(containing:$keyword):$site=$boost=4
 
