@@ -5,10 +5,12 @@
 ! avatar: #5100FF
 
 !Generic boosting
-*rust*$boost=9,site=mentealternativa.com
-*rust*$boost=9,site=globalizacion.ca
-*rust*$boost=9,site=es.technocracy.news
-
+*rust*$boost=8,site=mentealternativa.com
+*rust*$boost=8,site=globalizacion.ca
+*rust*$boost=8,site=es.technocracy.news
+$site=mentealternativa.com,boost=7
+$site=globalizacion.ca,boost=7
+$site=es.technocracy.news,boost=7
 
 ! Boost main websites
 $boost=9,site=mentealternativa.com
@@ -235,7 +237,7 @@ $downrank,site=okdiario.com
 $downrank,site=bibliotecapleyades.net
 $downrank,site=evangelicodigital.com
 $downrank,site=cesarvidal.com
-
+$downrank,site=acsilat.org
 
 ! Discard major news websites
 $discard,site=rtve.es
