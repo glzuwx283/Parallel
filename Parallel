@@ -5,7 +5,8 @@
 ! avatar: #5100FF
 
 ! Discard non related terms
-
+$boost=4,site=naturalnews.com
+$boost=4,site=globalresearch.ca
 
 ! Boost search terms
 $site=eir.news,boost=7
