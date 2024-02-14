@@ -4,6 +4,9 @@
 ! author: Goggle maker
 ! avatar: #5100FF
 
+! Dicard non related terms
+$discard
+
 ! Boost search terms
 $site=wallstreetonparade.com,boost=6
 
