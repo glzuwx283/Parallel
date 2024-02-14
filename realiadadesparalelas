@@ -101,6 +101,9 @@ $boost=1,site=elviejotopo.com
 
 ! Boost Specific Terms
 /r/globalistas/$boost=9
+/r/6G/$boost=9
+/r/RFID/$boost=9
+/r/maltusianismo/$boost=9
 /r/maltusianismo/$boost=9
 /r/maltusianos/$boost=9
 /r/tecnócratas/$boost=9
