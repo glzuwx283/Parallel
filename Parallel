@@ -65,6 +65,35 @@ $discard,site=reuters.com
 $discard,site=nytimes.com
 $discard,site=theguardian.com
 
+! Discard factchekers
+$discard,site=WashingtonPost.com
+$discard,site=VerificationJunkie.com
+$discard,site=ABCNews.go.com
+$discard,site=TheNewYorker.com
+$discard,site=APFactCheck.com
+$discard,site=TheWeeklyStandard.com
+$discard,site=PunditFact.com
+$discard,site=LeadStories.com
+$discard,site=Mediaculpa.eu
+$discard,site=HoaxSlayer.com
+$discard,site=FullFact.org
+$discard,site=NPR.org
+$discard,site=Snopes.com
+$discard,site=Politifact.com
+$discard,site=AFPFactCheck.com
+$discard,site=DailyKos.com
+$discard,site=FactBlaster.com
+$discard,site=GlobeAndMail.com
+$discard,site=GovernmentAccountabilityInstitute.org
+$discard,site=FairnessAndAccuracyInReporting.org
+$discard,site=MythBusters.com
+$discard,site=TruthRevolt.org
+$discard,site=UrbanLegends.about.com
+$discard,site=BusinessInsider.com
+$discard,site=FactCheck.org
+$discard,site=Quintus.net
+$discard,site=VoteSmart.org
+
 ! Downrank certain sites
 $downrank,site=amg-news.com
 $downrank,site=naturalnews.com
