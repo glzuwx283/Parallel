@@ -28,6 +28,7 @@ $boost=7,site=bitchute.com
 $boost=7,site=odysee.com
 $boost=7,site=rumble.com
 $boost=6,site=elinvestigador.org
+$boost=6,site=lamentiraestaahifuera.com
 $boost=6,site=voziberica.com
 $boost=6,site=nuevodesordenmundial.com
 $boost=6,site=elarconte.com
@@ -46,6 +47,7 @@ $boost=6,site=verdadypaciencia.com
 $boost=6,site=zgrados.com
 $boost=6,site=ntvespana.com
 $boost=6,site=manuescrig.wordpress.com
+$boost=6,site=diario16plus.com
 $boost=5,site=elimparcial.es
 $boost=5,site=quenotelacuenten.org
 $boost=5,site=drcnoticiero.com
@@ -74,6 +76,7 @@ $boost=5,site=findelsiglo.com
 $boost=5,site=es.theepochtimes.com
 $boost=4,site=elordenmundial.com
 $boost=4,site=tierrapura.info
+$boost=4,site=impactoespananoticias.com
 $boost=4,site=burbuja.info
 $boost=4,site=restaurarg.blogspot.com
 $boost=4,site=infovaticana.com
@@ -233,6 +236,7 @@ $discard,site=cope.es
 .cat$discard
 .pt$discard
 .ec$discard
+.hn$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -475,3 +479,10 @@ $discard,site=usatoday.com
 $discard,site=cbssports.com
 $discard,site=history.com
 $discard,site=biography.com
+$discard,site=unotv.com
+$discard,site=idescubre.fundaciondescubre.es
+$discard,site=nacion.com
+$discard,site=argentina.indymedia.org
+$discard,site=grafeno.co
+$discard,site=elheraldo.hn
+$discard,site=
