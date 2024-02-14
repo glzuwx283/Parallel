@@ -129,14 +129,14 @@ $boost=1,site=vozpopuli.com
 /r/verificando/$discard
 /r/verifica/$discard
 /r/verificar/$discard
-/r/nunca/$discar
-/r/latino/$discar
+/r/nunca/$discard
+/r/latino/$discard
 /check/$discard
 /verificando/$discard
 /verifica/$discard
 /verificar/$discard
-/nunca/$nunca
-/latino/$nunca
+/nunca/$discard
+/latino/$discard
 
 ! Downgrade certain websites
 $downrank,site=libertaddigital.com
