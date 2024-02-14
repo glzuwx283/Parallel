@@ -15,8 +15,8 @@ $site=wolfstreet.com,boost=5
 $site=naturalnews.com,boost=4
 
 !Specific search terms boosting
-$keyword = "(vaccine | graphene)"
-$site = "naturalnews\.com"
+$keyword = "vaccine | graphene"
+$site = "naturalnews.com"
 $(containing:$keyword):$site=$boost=4
 
 ! Generic boosting
