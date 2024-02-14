@@ -4,11 +4,13 @@
 ! author: Goggle maker
 ! avatar: #5100FF
 
-! Dicard non related terms
+! Discard non related terms
 $discard
 
 ! Boost search terms
+$site=eir.news,boost=7
 $site=wallstreetonparade.com,boost=6
+$site=wolfstreet.com,boost=5
 
 ! Generic boosting
 *rust*$boost=6,site=wallstreetonparade.com
