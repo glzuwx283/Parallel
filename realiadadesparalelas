@@ -4,9 +4,15 @@
 ! author: Realidades Paralelas
 ! avatar: #5100FF
 
+!Generic boosting
+*rust*$boost=9,site=mentealternativa.com
+*rust*$boost=9,site=globalizacion.ca
+*rust*$boost=9,site=es.technocracy.news
+
+
 ! Boost main websites
 $boost=9,site=mentealternativa.com
-$boost=9,site=mentealternativa.com/jorge-guerra-el-gran-reseteo-mundial-para-la-agenda-2030/
+$boost=9,site=mentealternativa.com
 $boost=9,site=terraindomita.blackblogs.org
 $boost=9,site=pildorasantimasoneria.blogspot.com
 $boost=9,site=es.technocracy.news
@@ -128,6 +134,7 @@ $boost=1,site=elviejotopo.com
 /r/tiranía/$boost=5
 /r/CBDC/$boost=5
 /r/fiat/$boost=5
+/r/Kissinger/$boost=5
 
 ! Discard factcheckers
 /r/falso/$discard
