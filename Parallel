@@ -1217,7 +1217,7 @@ $discard,site=branch.io
 $discard,site=revopush.com
 
 ! Discard major news websites
-$dicard,site=rollingstone.com
+$discard,site=rollingstone.com
 $discard,site=abc.net.au
 $discard,site=abcnews.com
 $discard,site=abcnews.go.com
