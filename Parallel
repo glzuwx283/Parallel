@@ -1562,3 +1562,6 @@ $discard=5 factcheck
 $discard=5 myth
 $discard=5 false
 $discard=5 true
+
+! Boost certain queries
+$newworldorder=$boost=5 & $greatreset=$boost=5
