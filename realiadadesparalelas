@@ -119,7 +119,7 @@ $boost=1,site=vozpopuli.com
 /r/mienten/$discard
 /r/tribuna/$discard
 /r/diario/$discard
-
+/check/$discard
 
 
 ! Downgrade certain websites
@@ -147,7 +147,7 @@ $discard,site=cope.es
 .bo$discard
 .eus$discard
 .uy$discard
-
+.cl$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -322,3 +322,6 @@ $discard,site=expresonews.com
 $discard,site=independentespanol.com
 $discard,site=tribunasalamanca.com
 $discard,site=redaccionmedica.com
+$discard,site=iris.paho.org
+$discard,site=youtube.com
+$discard,site=eluniverso.com
