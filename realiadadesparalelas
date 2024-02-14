@@ -5,9 +5,8 @@
 ! avatar: #5100FF
 
 ! Boost main websites
+$boost=10,site=pildorasantimasoneria.blogspot.com
 $boost=9,site=ejercitoremanente.com
-$boost=9,site=elinvestigador.org
-$boost=9,site=pildorasantimasoneria.blogspot.com
 $boost=9,site=periodistasporlaverdad.com
 $boost=8,site=mentealternativa.com
 $boost=8,site=cybermedios.org
@@ -19,6 +18,7 @@ $boost=7,site=terraindomita.blackblogs.org
 $boost=7,site=adelanteespana.com
 $boost=7,site=attac.es
 $boost=7,site=globalizacion.ca
+$boost=6,site=elinvestigador.org
 $boost=6,site=voziberica.com
 $boost=6,site=nuevodesordenmundial.com
 $boost=6,site=elarconte.com
