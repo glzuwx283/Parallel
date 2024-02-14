@@ -5,7 +5,7 @@
 ! avatar: #5100FF
 
 ! Discard non related terms
-$discard
+
 
 ! Boost search terms
 $site=eir.news,boost=7
