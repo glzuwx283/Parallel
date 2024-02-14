@@ -56,10 +56,14 @@ $boost=1,site=vozpopuli.com
 
 ! Boost Specific Terms
 /plandemia/$boost=6
+/masón/$boost=6
+/masoneria/$boost=6
 /globalistas/$boost=6
 /despoblación/$boost=6
+/transhumanistas/$boost=6
 /transhumanismo/$boost=5
 /revolución/$boost=5
+/amos/$boost=6
 /elites/$boost=5
 /granreseteo/$boost=5
 /colapso/$boost=5
@@ -72,13 +76,11 @@ $boost=1,site=vozpopuli.com
 
 
 ! Discard factcheckers
-$discard=2 mito
-$discard=2 falso
-$discard=2 mentira
-$discard=2 falso
+$discard=1 falso
+$discard=1 mentira
+$discard=1 falso
 $discard=1 conspiracy
 $discard=1 factcheck
-$discard=1 myth
 $discard=1 false
 
 ! Downgrade certain websites
