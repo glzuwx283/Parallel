@@ -14,11 +14,6 @@ $site=wallstreetonparade.com,boost=6
 $site=wolfstreet.com,boost=5
 $site=naturalnews.com,boost=4
 
-!Specific search terms boosting
-$keyword="vaccine"
-$site=naturalnews.com
-$(containing:$keyword):$site=$boost=4
-
 ! Generic boosting
 *rust*$boost=6,site=wallstreetonparade.com
 *rust*$boost=6,site=wolfstreet.com
