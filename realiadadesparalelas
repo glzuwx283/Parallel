@@ -136,6 +136,47 @@ $boost=1,site=vozpopuli.com
 /r/nunca/$discard
 /r/latino/$discard
 /r/yahoo/$discard
+/r/argentina/$discard
+/check/$discard
+/falso/$discard
+/FALSO/$discard
+/Fact/$discard
+/Check/$discard
+/Fact Check/$discard
+/falso/$discard
+/verifica/$discard
+/mentira/$discard
+/conspiración/$discard
+/conspiracy/$discard
+/fact/$discard
+/check/$discard
+/factcheck/$discard
+/false/$discard
+/lie/$discard
+/desinformación/$discard
+/es-falso-que/$discard
+/ninguna/$discard
+/ninguna-de/$discard
+/fact-checking/$discard
+/comprueba/$discard
+/teoría-de/$discard
+/bulo/$discard
+/farsa/$discard
+/engaño/$discard
+/mienten/$discard
+/tribuna/$discard
+/diario/$discard
+/no/$discard
+/factual/$discard
+/nunca/$discard
+/afirmado/$discard
+/verificando/$discard
+/verifica/$discard
+/verificar/$discard
+/nunca/$discard
+/latino/$discard
+/yahoo/$discard
+/argentina/$discard
 /check/$discard
 /verificando/$discard
 /verifica/$discard
@@ -143,6 +184,10 @@ $boost=1,site=vozpopuli.com
 /nunca/$discard
 /latino/$discard
 /yahoo/$discard
+/desinformación/$discard
+/argentina/$discard
+/chech/$discard
+
 
 ! Downgrade certain websites
 $downrank,site=libertaddigital.com
@@ -374,3 +419,8 @@ $discard,site=twitter.com
 $discard,site=ambito.com
 $discard,site=eldisenso.com
 $discard,site=primeraplana.com.ec
+$discard,site=ideal.es
+$discard,site=colombiacheck.com
+$discard,site=forocoches.com
+$discard,site=diariosigloxxi.com
+$discard,site=materiageek.com
