@@ -20,6 +20,9 @@ $boost=7,site=adelanteespana.com
 $boost=7,site=attac.es
 $boost=7,site=globalizacion.ca
 $boost=7,site=extramurosrevista.com
+$boost=7,site=bitchute.com
+$boost=7,site=odysee.com
+$boost=7,site=rumble.com
 $boost=6,site=elinvestigador.org
 $boost=6,site=voziberica.com
 $boost=6,site=nuevodesordenmundial.com
@@ -59,6 +62,7 @@ $boost=5,site=es.theepochtimes.com
 $boost=4,site=elordenmundial.com
 $boost=4,site=burbuja.info
 $boost=4,site=restaurarg.blogspot.com
+$boost=4,site=infovaticana.com
 $boost=3,site=victimasdelospoliticos.org
 $boost=2,site=eltorotv.com
 $boost=1,site=libertaddigital.com
@@ -131,12 +135,14 @@ $boost=1,site=vozpopuli.com
 /r/verificar/$discard
 /r/nunca/$discard
 /r/latino/$discard
+/r/yahoo/$discard
 /check/$discard
 /verificando/$discard
 /verifica/$discard
 /verificar/$discard
 /nunca/$discard
 /latino/$discard
+/yahoo/$discard
 
 ! Downgrade certain websites
 $downrank,site=libertaddigital.com
@@ -166,6 +172,7 @@ $discard,site=cope.es
 .cl$discard
 .cat$discard
 .pt$discard
+.ec$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -358,3 +365,12 @@ $discard,site=cotejo.info
 $discard,site=dpa-shop.com
 $discard,site=consalud.es
 $discard,site=eltiempolatino.com
+$discard,site=lasillavacia.com
+$discard,site=facebook.com
+$discard,site=diarimes.com
+$discard,site=portalcheck.org
+$discard,site=groups.google.com
+$discard,site=twitter.com
+$discard,site=ambito.com
+$discard,site=eldisenso.com
+$discard,site=primeraplana.com.ec
