@@ -5,10 +5,10 @@
 ! avatar: #5100FF
 
 ! Boost main websites
-$boost=10,site=mentealternativa.com
-$boost=10,site=terraindomita.blackblogs.org
-$boost=10,site=pildorasantimasoneria.blogspot.com
-$boost=10,site=es.technocracy.news
+$boost=9,site=mentealternativa.com
+$boost=9,site=terraindomita.blackblogs.org
+$boost=9,site=pildorasantimasoneria.blogspot.com
+$boost=9,site=es.technocracy.news
 $boost=9,site=ejercitoremanente.com
 $boost=9,site=periodistasporlaverdad.com
 $boost=8,site=cybermedios.org
@@ -88,11 +88,18 @@ $boost=1,site=vozpopuli.com
 $boost=1,site=elviejotopo.com
 
 ! Boost Specific Terms
-/r/globalistas/$boost=10
+/r/globalistas/$boost=9
+/r/maltusianismo/$boost=9
+/r/maltusianos/$boost=9
+/r/tecnócratas/$boost=9
+/r/genocidas/$boost=9
+/r/transhumanistas/$boost=9
+/r/mundial/$boost=9
+/r/imponer/$boost=9
+/r/Jorge Guerra/$boost=9
+/r/Cristina Martin Jiménez/$boost=9
 /r/globalismo/$boost=8
-/r/maltusianos/$boost=10
 /r/maltus/$boost=8
-/r/maltusianismo/$boost=10
 /r/oligarcas/$boost=7
 /r/mafia/$boost=7
 /r/plandemia/$boost=6
@@ -521,3 +528,4 @@ $discard,site=amazon.com
 $discard,site=ebay.com
 $discard,site=elcaribe.com.do
 $discard,site=abebooks.com
+$discard,site=libertadusa.com
