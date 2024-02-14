@@ -11,7 +11,6 @@ $boost=9,site=periodistasporlaverdad.com
 $boost=8,site=mentealternativa.com
 $boost=8,site=cybermedios.org
 $boost=8,site=detectivesdeguerra.com
-$boost=8,site=bibliotecapleyades.net
 $boost=8,site=es.sott.net
 $boost=8,site=laiberia.es
 $boost=7,site=es.technocracy.news
@@ -116,6 +115,8 @@ $discard=1 chequeadores
 $downrank,site=libertaddigital.com
 $downrank,site=libremercado.com
 $downrank,site=okdiario.com
+$downrank,site=bibliotecapleyades.net
+
 
 
 ! Discard major news websites
@@ -267,3 +268,5 @@ $discard,site=madridnorte24horas.com
 $discard,site=lavanguardia.com
 $discard,site=elperiodico.com
 $discard,site=es.weforum.org
+$discard,site=weforum.org
+$discard,site=chathamhouse.org
