@@ -119,6 +119,8 @@ $boost=1,site=vozpopuli.com
 /r/mienten/$discard
 /r/tribuna/$discard
 /r/diario/$discard
+/r/no/$discard
+
 /check/$discard
 
 
@@ -325,3 +327,4 @@ $discard,site=redaccionmedica.com
 $discard,site=iris.paho.org
 $discard,site=youtube.com
 $discard,site=eluniverso.com
+$discard,site=heraldo.es
