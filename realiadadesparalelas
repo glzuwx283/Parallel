@@ -268,6 +268,7 @@ $discard,site=cope.es
 .gov$discard
 .br$discard
 .cr$discard
+.sv$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -554,8 +555,26 @@ $discard,site=telefonica.com
 $discard,site=revistas.ucr.ac.cr
 $discard,site=riull.ull.es
 $discard,site=es.linkedin.com
-psicologiaymente.com
-telos.fundaciontelefonica.com
-santanderglobaltech.com
-bbvaopenmind.com
-santandergto.com
+$discard,site=psicologiaymente.com
+$discard,site=telos.fundaciontelefonica.com
+$discard,site=santanderglobaltech.com
+$discard,site=bbvaopenmind.com
+$discard,site=santandergto.com
+$discard,site=bbva.com
+$discard,site=biblioguias.cepal.org
+$discard,site=apps.apple.com
+$discard,site=mexico.unir.net
+$discard,site=signaturit.com
+$discard,site=hiperderecho.org
+$discard,site=worldvisionamericalatina.org
+$discard,site=medium.com
+$discard,site=play.google.com
+$discard,site=portafolio.com
+$discard,site=mcafee.com
+$discard,site=support.apple.com
+$discard,site=santander.com
+$discard,site=amazon.com.au
+$discard,site=jansen.com
+$discard,site=learn.microsoft.com
+$discard,site=negociosdigitales.com.co
+$discard,site=upv.es
