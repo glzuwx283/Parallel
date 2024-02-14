@@ -9,6 +9,7 @@ $discard
 
 ! Boost search terms
 $site=eir.news,boost=7
+$site=larouchepub.com,boost=7
 $site=wallstreetonparade.com,boost=6
 $site=wolfstreet.com,boost=5
 
@@ -23,6 +24,8 @@ $site=wolfstreet.com,boost=5
 *rust*$boost=5,site=zerohedge.com
 
 ! Boost some results
+$boost=7,site=eir.news
+$boost=7,site=larouchepub.com
 $boost=4,site=mintpressnews.com
 $boost=4,site=dissidentvoice.org
 $boost=4,site=nakedcapitalism.com
