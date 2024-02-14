@@ -238,6 +238,7 @@ $downrank,site=bibliotecapleyades.net
 $downrank,site=evangelicodigital.com
 $downrank,site=cesarvidal.com
 $downrank,site=acsilat.org
+$downrank,site=nuso.org
 
 ! Discard major news websites
 $discard,site=rtve.es
@@ -263,6 +264,7 @@ $discard,site=cope.es
 .hn$discard
 .gov$discard
 .br$discard
+.cr$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -544,3 +546,8 @@ $discard,site=latinoamerica21.com
 $discard,site=amazon.co.uk
 $discard,site=elmundofinanciero.com
 $discard,site=iberdrola.com
+$discard,site=scielo.isciii.es
+$discard,site=telefonica.com
+$discard,site=revistas.ucr.ac.cr
+$discard,site=riull.ull.es
+$discard,site=es.linkedin.com
