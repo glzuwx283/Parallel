@@ -237,6 +237,7 @@ $discard,site=cope.es
 .pt$discard
 .ec$discard
 .hn$discard
+.gov$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -485,3 +486,20 @@ $discard,site=nacion.com
 $discard,site=argentina.indymedia.org
 $discard,site=grafeno.co
 $discard,site=elheraldo.hn
+$discard,site=dailymotion.com
+$discard,site=computerhoy.com
+$discard,site=confianzaenlasvacunasla.org
+$discard,site=esquire.com
+$discard,site=ccars.org.es
+$discard,site=blog.orange.es
+$discard,site=cnet.com
+$discard,site=bloguers.net
+$discard,site=paho.org
+$discard,site=medlineplus.gov
+$discard,site=va.gov
+$discard,site=espanol.cdc.gov
+$discard,site=who.int
+$discard,site=scdhec.gov
+$discard,site=igssgt.org
+$discard,site=mskcc.org
+$discard,site=animalpolitico.com
