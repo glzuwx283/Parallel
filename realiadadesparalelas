@@ -127,7 +127,6 @@ $boost=1,site=vozpopuli.com
 /r/nunca/$discard
 /r/afirmado/$discard
 /check/$discard
-/$discard,html*fact*
 
 
 ! Downgrade certain websites
