@@ -74,15 +74,6 @@ $boost=1,site=vozpopuli.com
 /CBDC/$boost=5
 /fiat/$boost=5
 
-
-! Discard factcheckers
-$discard=1 falso
-$discard=1 mentira
-$discard=1 falso
-$discard=1 conspiracy
-$discard=1 factcheck
-$discard=1 false
-
 ! Downgrade certain websites
 $downrank,site=libertaddigital.com
 $downrank,site=libremercado.com
