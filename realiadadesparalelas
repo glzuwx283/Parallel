@@ -5,10 +5,10 @@
 ! avatar: #5100FF
 
 ! Boost main websites
+$boost=10,site=mentealternativa.com
 $boost=10,site=pildorasantimasoneria.blogspot.com
 $boost=9,site=ejercitoremanente.com
 $boost=9,site=periodistasporlaverdad.com
-$boost=8,site=mentealternativa.com
 $boost=8,site=cybermedios.org
 $boost=8,site=detectivesdeguerra.com
 $boost=8,site=es.sott.net
@@ -62,6 +62,7 @@ $boost=5,site=prevencia.net
 $boost=5,site=quenotelacuenten.org
 $boost=5,site=geografiainfinita.com
 $boost=5,site=adriw.com
+$boost=5,site=negocios.com
 $boost=5,site=blogcatolico.com
 $discard,site=laquintacolumna.net
 $boost=5,site=eldiestro.es
@@ -87,6 +88,13 @@ $boost=1,site=vozpopuli.com
 $boost=1,site=elviejotopo.com
 
 ! Boost Specific Terms
+/r/globalistas/$boost=10
+/r/globalismo/$boost=8
+/r/maltusianos/$boost=10
+/r/maltus/$boost=8
+/r/maltusianismo/$boost=10
+/r/oligarcas/$boost=7
+/r/mafia/$boost=7
 /r/plandemia/$boost=6
 /r/reinicio/$boost=6
 /r/reset/$boost=6
@@ -98,8 +106,6 @@ $boost=1,site=elviejotopo.com
 /r/reinicio/$boost=6
 /r/masón/$boost=6
 /r/masoneria/$boost=6
-/r/globalistas/$boost=6
-/r/globalismo/$boost=6
 /r/despoblación/$boost=6
 /r/transhumanistas/$boost=6
 /r/transhumanismo/$boost=5
@@ -238,6 +244,7 @@ $discard,site=cope.es
 .ec$discard
 .hn$discard
 .gov$discard
+.br$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -503,3 +510,10 @@ $discard,site=scdhec.gov
 $discard,site=igssgt.org
 $discard,site=mskcc.org
 $discard,site=animalpolitico.com
+$discard,site=burkeinstituto.com
+$discard,site=gazetadopovo.com.br
+$discard,site=amazon.es
+$discard,site=pontofrio.com.br
+$discard,site=ethic.es
+$discard,site=sites.google.com
+$discard,site=soundcloud.com
