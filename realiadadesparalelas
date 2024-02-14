@@ -40,6 +40,7 @@ $boost=6,site=briega.org
 $boost=6,site=verdadypaciencia.com
 $boost=6,site=zgrados.com
 $boost=5,site=elimparcial.es
+$boost=5,site=drcnoticiero.com
 $boost=5,site=principiosdedolores.com
 $boost=5,site=gaceta.es
 $boost=5,site=carlosagaton.blogspot.com
@@ -49,6 +50,7 @@ $boost=5,site=almendron.com
 $boost=5,site=prevencia.net
 $boost=5,site=quenotelacuenten.org
 $boost=5,site=blogcatolico.com
+$discard,site=laquintacolumna.net
 $boost=5,site=eldiestro.es
 $boost=5,site=politicadegaraje.blog
 $boost=5,site=infovaticana.com
@@ -60,6 +62,7 @@ $boost=5,site=periodistadigital.com
 $boost=5,site=findelsiglo.com
 $boost=5,site=es.theepochtimes.com
 $boost=4,site=elordenmundial.com
+$boost=4,site=tierrapura.info
 $boost=4,site=burbuja.info
 $boost=4,site=restaurarg.blogspot.com
 $boost=4,site=infovaticana.com
@@ -424,3 +427,6 @@ $discard,site=colombiacheck.com
 $discard,site=forocoches.com
 $discard,site=diariosigloxxi.com
 $discard,site=materiageek.com
+$discard,site=politifact.com
+$discard,site=periodicoliberal.com
+$discard,site=g1.globo.com
