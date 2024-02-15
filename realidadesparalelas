@@ -20,20 +20,20 @@ $site=es.technocracy.news,boost
 $site=periodicolaesperanza.com,boost
 
 ! Keywords boosting
-*delitos*$boost,intitle
-*delitos*$boost,intext
-*onu*$boost,intitle
-*onu*$boost,intext
-*oms*$boost,intitle
-*oms*$boost,intext
-*genocidio*$boost,intitle
-*genocidio*$boost,intext
-*delitos*$boost,intitle
-*delitos*$boost,intext
-*normalizar*$boost,intitle
-*normalizar*$boost,intext
-*pedofilia*$boost,intitle
-*pedofilia*$boost,intext
+delitos$boost=9,intitle
+*delitos*$boost=9,intext
+*onu*$boost=9,intitle
+*onu*$boost=9,intext
+*oms*$boost=9,intitle
+*oms*$boost=9,intext
+*genocidio*$boost=9,intitle
+*genocidio*$boost=9,intext
+*delitos*$boost=9,intitle
+*delitos*$boost=9,intext
+*normalizar*$boost=9,intitle
+*normalizar*$boost=9,intext
+*pedofilia*$boost=9,intitle
+*pedofilia*$boost=9,intext
 
 
 
