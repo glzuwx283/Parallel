@@ -225,8 +225,8 @@ $downrank,site=cesarvidal.com
 $downrank,site=acsilat.org
 $downrank,site=nuso.org
 $downrank,site=gaceta.es
-$downrank=6,site=rumble.com
-$downrank=6,site=bitchute.com
+$downrank,boost=6,site=rumble.com
+$downrank,boost=6,site=bitchute.com
 
 
 
@@ -265,6 +265,7 @@ $discard,site=cope.es
 .sv$discard
 .it$discard
 .fr$discard
+.ve$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -725,3 +726,10 @@ $discard,site=factcheck.afp.com
 $discard,site=prnewswire.com
 $discard,site=elordenmundial.com
 $discard,site=gatesnotes.com
+$discard,site=apu.edu
+$discard,site=envivo.bancomundial.org
+$discard,site=unric.org
+$discard,site=mundosano.org
+$discard,site=sectcv.es
+$discard,site=mppre.gob.ve
+$discard,site=semana.com
