@@ -50,8 +50,18 @@ demanda$boost=9,inurl
 crímenes$boost=9,intitle
 crímenes$boost=9,intext
 crímenes$boost=9,inurl
+oscuro$boost=9,intitle
+oscuro$boost=9,intext
+oscuro$boost=9,inurl
 influencia$boost=9,intitle
-
+influencia$boost=9,intext
+influencia$boost=9,inurl
+GENOCIDIO$boost=9,intext
+GENOCIDIO$boost=9,inurl
+GENOCIDIO$boost=9,intitle
+marxista$boost=9,intext
+marxista$boost=9,inurl
+marxista$boost=9,intitle
 
 
 
