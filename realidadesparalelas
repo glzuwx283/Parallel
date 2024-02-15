@@ -6,6 +6,9 @@
 
 !Generic boosting
 *globalistas*$boost=8,site=mentealternativa.com
+*agenda*$boost=8,site=mentealternativa.com
+*globalismo*$boost=8,site=mentealternativa.com
+*elites*$boost=8,site=mentealternativa.com
 *globalistas*$boost=8,site=globalizacion.ca
 *globalistas*$boost=8,site=es.technocracy.news
 $site=mentealternativa.com,boost=7
@@ -168,6 +171,7 @@ $downrank,site=evangelicodigital.com
 $downrank,site=cesarvidal.com
 $downrank,site=acsilat.org
 $downrank,site=nuso.org
+$downrank,site=gaceta.es
 
 ! Discard major news websites
 $discard,site=rtve.es
@@ -650,3 +654,4 @@ $discard,site=telemundo.com
 $discard,site=losnoticieristas.com
 $discard,site=nationalgeographic.es
 $discard,site=news.un.org
+$discard,site=unwomen.org
