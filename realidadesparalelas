@@ -21,9 +21,21 @@ $site=periodicolaesperanza.com,boost
 
 ! Keywords boosting
 *delitos*$boost,intitle
-*delitos*$boost,inquery
 *delitos*$boost,intext
-/r/delitos/$boost=9,inquery
+*onu*$boost,intitle
+*onu*$boost,intext
+*oms*$boost,intitle
+*oms*$boost,intext
+*genocidio*$boost,intitle
+*genocidio*$boost,intext
+*delitos*$boost,intitle
+*delitos*$boost,intext
+*normalizar*$boost,intitle
+*normalizar*$boost,intext
+*pedofilia*$boost,intitle
+*pedofilia*$boost,intext
+
+
 
 
 ! Boost main websites
