@@ -232,8 +232,8 @@ $downrank,site=cesarvidal.com
 $downrank,site=acsilat.org
 $downrank,site=nuso.org
 $downrank,site=gaceta.es
-$downrank=9,site=rumble.com
-$downrank=9,site=bitchute.com
+$downrank=5,site=rumble.com
+$downrank=5,site=bitchute.com
 $downrank=9,site=sdpnoticias.com
 
 
@@ -274,6 +274,7 @@ $discard,site=cope.es
 .it$discard
 .fr$discard
 .ve$discard
+.edu$discard
 
 ! Discard ceratain sites
 $discard,site=canalsur.es
@@ -746,3 +747,4 @@ $discard,site=live.worldbank.org
 $discard,site=music.apple.com
 $discard,site=worldathletics.org
 $discard,site=blogs.worldbank.org
+$discard,site=tempo.co
