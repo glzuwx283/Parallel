@@ -19,7 +19,8 @@ $site=es.technocracy.news,boost=7
 $site=periodicolaesperanza.com,boost=7
 
 ! Boost main websites
-$boost,site=mentealternativa.com
+$boost=8,site=mentealternativa.com
+$boost,site=vanityfea.blogspot.com
 $boost,site=cigotoypersona.blogspot.com
 $boost,site=lasoga.org
 $boost,site=laresistenciaradio.com
