@@ -20,10 +20,10 @@ $site=es.technocracy.news,boost
 $site=periodicolaesperanza.com,boost
 
 ! Keywords boosting
-*gates*$boost,intitle
-*gates*$boost,inquery
-*crímenes*$boost,intext
-/r/genocidio/$boost=9,inquery
+*delitos*$boost,intitle
+*delitos*$boost,inquery
+*delitos*$boost,intext
+/r/delitos/$boost=9,inquery
 
 
 ! Boost main websites
