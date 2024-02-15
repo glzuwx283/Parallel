@@ -162,7 +162,6 @@ $boost,site=eltorotv.com
 $boost,site=libertaddigital.com
 $boost,site=vozpopuli.com
 $boost,site=elviejotopo.com
-$boost,site=okdiario.com
 
 
 ! Boost english speaking websites
@@ -227,6 +226,7 @@ $downrank,site=nuso.org
 $downrank,site=gaceta.es
 $downrank=9,site=rumble.com
 $downrank=9,site=bitchute.com
+$downrank=9,site=sdpnoticias.com
 
 
 
@@ -733,3 +733,5 @@ $discard,site=mundosano.org
 $discard,site=sectcv.es
 $discard,site=mppre.gob.ve
 $discard,site=semana.com
+$discard,site=cidob.org
+$discard,site=live.worldbank.org
