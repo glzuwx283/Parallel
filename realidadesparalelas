@@ -22,7 +22,9 @@ $site=periodicolaesperanza.com,boost
 ! Keywords boosting
 *gates*$boost,intitle
 *gates*$boost,inquery
-*gates*$boost,intext
+*crímenes*$boost,intext
+/r/genocidio/$boost=9,inquery
+
 
 ! Boost main websites
 $boost,site=mentealternativa.com
