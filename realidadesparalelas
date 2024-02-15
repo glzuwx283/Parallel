@@ -15,6 +15,7 @@ $site=periodicolaesperanza.com,boost=7
 
 ! Boost main websites
 $boost,site=mentealternativa.com
+$boost,site=cigotoypersona.blogspot.com
 $boost,site=lasoga.org
 $boost,site=laresistenciaradio.com
 $boost,site=pijamasurf
@@ -106,6 +107,11 @@ $boost,site=eltorotv.com
 $boost,site=libertaddigital.com
 $boost,site=vozpopuli.com
 $boost,site=elviejotopo.com
+
+! Boost english speaking websites
+$boost,site=sneak.berlin
+$boost,site=wallstreetonparade.com
+$boost,site=eir.news
 
 ! Boost Specific Terms
 /r/globalistas/$boost=9
@@ -610,3 +616,5 @@ $discard,site=thebookseller.com
 $discard,site=amazon.de
 $discard,site=sdgs.un.org
 $discard,site=fordschool.umich.edu
+$discard,site=tgstat.com
+$discard,site=alibaba.com
