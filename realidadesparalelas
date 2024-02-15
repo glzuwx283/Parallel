@@ -215,7 +215,9 @@ $downrank,site=cesarvidal.com
 $downrank,site=acsilat.org
 $downrank,site=nuso.org
 $downrank,site=gaceta.es
-$downrank=3,site=rumble.com
+$downrank=6,site=rumble.com
+$downrank=6,site=bitchute.com
+
 
 
 ! Discard major news websites
