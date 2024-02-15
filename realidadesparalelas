@@ -11,9 +11,16 @@
 $site=mentealternativa.com,boost=7
 $site=globalizacion.ca,boost=7
 $site=es.technocracy.news,boost=7
+$site=periodicolaesperanza.com,boost=7
 
 ! Boost main websites
 $boost,site=mentealternativa.com
+$boost,site=lasoga.org
+$boost,site=laresistenciaradio.com
+$boost,site=pijamasurf
+$boost,site=selenitaconsciente.com
+$boost,site=elheraldodelhenares.com
+$boost,site=prevencia.net
 $boost,site=mentealternativa.com
 $boost,site=terraindomita.blackblogs.org
 $boost,site=pildorasantimasoneria.blogspot.com
@@ -38,6 +45,7 @@ $boost,site=extramurosrevista.com
 $boost,site=bitchute.com
 $boost,site=odysee.com
 $boost,site=rumble.com
+$boost,site=telegram.me
 $boost,site=rafapal.com
 $boost,site=elinvestigador.org
 $boost,site=lamentiraestaahifuera.com
@@ -595,3 +603,9 @@ $discard,site=elposconflicto.org
 $discard,site=enfarma.lat
 $discard,site=eldia.com
 $discard,site=headtopics.com
+$discard,site=eltiempo.com
+$discard,site=euskalnews.com
+$discard,site=kffhealthnews.org
+$discard,site=thebookseller.com
+$discard,site=amazon.de
+$discard,site=sdgs.un.org
