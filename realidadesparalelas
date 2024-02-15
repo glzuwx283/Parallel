@@ -83,6 +83,15 @@ davos$boost=9,intitle
 trans$boost=9,intext
 trans$boost=9,inurl
 trans$boost=9,intitle
+Davos$boost=9,intext
+Davos$boost=9,inurl
+Davos$boost=9,intitle
+2030$boost=9,intext
+2030$boost=9,inurl
+2030$boost=9,intitle
+Globalismo$boost=9,intext
+Globalismo$boost=9,inurl
+Globalismo$boost=9,intitle
 
 ! Boost main websites
 $boost,site=mentealternativa.com
