@@ -83,7 +83,7 @@ davos$boost,intitle
 trans$boost,intext
 trans$boost,inurl
 trans$boost,intitle
-Davos$boost=,intext
+Davos$boost,intext 
 Davos$boost,inurl
 Davos$boost,intitle
 2030$boost,intext
