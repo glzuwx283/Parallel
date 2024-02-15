@@ -21,6 +21,8 @@ $site=periodicolaesperanza.com,boost
 
 ! Keywords boosting
 *gates*$boost,intitle
+*gates*$boost,inquery
+*gates*$boost,intext
 
 ! Boost main websites
 $boost,site=mentealternativa.com
