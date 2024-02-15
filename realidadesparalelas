@@ -44,6 +44,15 @@ pedofilia$boost=9,inurl
 globalistas$boost=9,intitle
 globalistas$boost=9,intext
 globalistas$boost=9,inurl
+demanda$boost=9,intitle
+demanda$boost=9,intext
+demanda$boost=9,inurl
+crímenes$boost=9,intitle
+crímenes$boost=9,intext
+crímenes$boost=9,inurl
+influencia$boost=9,intitle
+
+
 
 
 
