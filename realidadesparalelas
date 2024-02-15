@@ -19,6 +19,9 @@ $site=globalizacion.ca,boost
 $site=es.technocracy.news,boost
 $site=periodicolaesperanza.com,boost
 
+! Keywords boosting
+*gates*$boost,intitle
+
 ! Boost main websites
 $boost,site=mentealternativa.com
 $boost,site=vanityfea.blogspot.com
