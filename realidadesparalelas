@@ -21,19 +21,26 @@ $site=periodicolaesperanza.com,boost
 
 ! Keywords boosting
 delitos$boost=9,intitle
-*delitos*$boost=9,intext
-*onu*$boost=9,intitle
-*onu*$boost=9,intext
-*oms*$boost=9,intitle
-*oms*$boost=9,intext
-*genocidio*$boost=9,intitle
-*genocidio*$boost=9,intext
-*delitos*$boost=9,intitle
-*delitos*$boost=9,intext
-*normalizar*$boost=9,intitle
-*normalizar*$boost=9,intext
-*pedofilia*$boost=9,intitle
-*pedofilia*$boost=9,intext
+delitos$boost=9,intext
+delitos$boost=9,inurl
+onu$boost=9,intitle
+onu$boost=9,intext
+onu$boost=9,inurl
+oms$boost=9,intitle
+oms$boost=9,intext
+oms$boost=9,inurl
+genocidio$boost=9,intitle
+genocidio$boost=9,intext
+genocidio$boost=9,inurl
+delitos$boost=9,intitle
+delitos$boost=9,intext
+delitos$boost=9,inurl
+normalizar$boost=9,intitle
+normalizar$boost=9,intext
+normalizar$boost=9,inurl
+pedofilia$boost=9,intitle
+pedofilia$boost=9,intext
+pedofilia$boost=9,inurl
 
 
 
