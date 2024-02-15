@@ -32,9 +32,15 @@ crimen$boost=9,inurl
 onu$boost=9,intitle
 onu$boost=9,intext
 onu$boost=9,inurl
+ONU$boost=9,intitle
+ONU$boost=9,intext
+ONU$boost=9,inurl
 oms$boost=9,intitle
 oms$boost=9,intext
 oms$boost=9,inurl
+OMS$boost=9,intitle
+OMS$boost=9,intext
+OMS$bost=9,inurl
 genocidio$boost=9,intitle
 genocidio$boost=9,intext
 genocidio$boost=9,inurl
@@ -68,10 +74,15 @@ GENOCIDIO$boost=9,intitle
 marxista$boost=9,intext
 marxista$boost=9,inurl
 marxista$boost=9,intitle
-
-
-
-
+WEF$boost=9,intext
+WEF$boost=9,inurl
+WEF$boost=9,intitle
+davos$boost=9,intext
+davos$boost=9,inurl
+davos$boost=9,intitle
+trans$boost=9,intext
+trans$boost=9,inurl
+trans$boost=9,intitle
 
 ! Boost main websites
 $boost,site=mentealternativa.com
@@ -749,3 +760,6 @@ $discard,site=worldathletics.org
 $discard,site=blogs.worldbank.org
 $discard,site=tempo.co
 $discard,site=icpdtaskforce.org
+$discard,site=ondavasca.com
+$discard,site=isayasadhanom.me
+$discard,site=unicef.org
