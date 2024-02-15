@@ -41,6 +41,9 @@ normalizar$boost=9,inurl
 pedofilia$boost=9,intitle
 pedofilia$boost=9,intext
 pedofilia$boost=9,inurl
+globalistas$boost=9,intitle
+globalistas$boost=9,intext
+globalistas$boost=9,inurl
 
 
 
@@ -699,3 +702,4 @@ $discard,site=buscabiografias.com
 $discard,site=factcheck.afp.com
 $discard,site=prnewswire.com
 $discard,site=elordenmundial.com
+$discard,site=gatesnotes.com
