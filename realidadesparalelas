@@ -5,21 +5,22 @@
 ! avatar: #5100FF
 
 !Generic boosting
-*globalistas*$boost=8,site=mentealternativa.com
-*agenda*$boost=8,site=mentealternativa.com
-*globalismo*$boost=8,site=mentealternativa.com
-*reseteo*$boost=8,site=mentealternativa.com
-*2030*$boost=8,site=mentealternativa.com
-*elites*$boost=8,site=mentealternativa.com
-*globalistas*$boost=8,site=globalizacion.ca
-*globalistas*$boost=8,site=es.technocracy.news
-$site=mentealternativa.com,boost=7
-$site=globalizacion.ca,boost=7
-$site=es.technocracy.news,boost=7
-$site=periodicolaesperanza.com,boost=7
+*globalistas*$boost,site=mentealternativa.com
+*gates*$boost,site=mentealternativa.com
+*agenda*$boost,site=mentealternativa.com
+*globalismo*$boost,site=mentealternativa.com
+*reseteo*$boost,site=mentealternativa.com
+*2030*$boost,site=mentealternativa.com
+*elites*$boost,site=mentealternativa.com
+*globalistas*$boost,site=globalizacion.ca
+*globalistas*$boost,site=es.technocracy.news
+$site=mentealternativa.com,boost
+$site=globalizacion.ca,boost
+$site=es.technocracy.news,boost
+$site=periodicolaesperanza.com,boost
 
 ! Boost main websites
-$boost=8,site=mentealternativa.com
+$boost,site=mentealternativa.com
 $boost,site=vanityfea.blogspot.com
 $boost,site=cigotoypersona.blogspot.com
 $boost,site=lasoga.org
@@ -167,6 +168,7 @@ $boost,site=eir.news
 /r/Kissinger/$boost=5
 
 ! Downgrade certain websites
+$downrank,site=okdiario.com
 $downrank,site=libertaddigital.com
 $downrank,site=libremercado.com
 $downrank,site=bibliotecapleyades.net
@@ -175,6 +177,7 @@ $downrank,site=cesarvidal.com
 $downrank,site=acsilat.org
 $downrank,site=nuso.org
 $downrank,site=gaceta.es
+
 
 ! Discard major news websites
 $discard,site=rtve.es
@@ -658,3 +661,12 @@ $discard,site=losnoticieristas.com
 $discard,site=nationalgeographic.es
 $discard,site=news.un.org
 $discard,site=unwomen.org
+$discard,site=weather.com
+$discard,site=medintensiva.org
+$discard,site=mscbs.gob.es
+$discard,site=analisis.datosabiertos.jcyl.es
+$discard,site=khanacademy.org
+$discard,site=lamoncloa.gob.es
+$discard,site=independent.co.uk
+$discard,site=bbva.ch
+$discard,site=buscabiografias.com
