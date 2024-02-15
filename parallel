@@ -9,38 +9,43 @@ $boost=4,site=naturalnews.com
 $boost=4,site=globalresearch.ca
 
 ! Boost search terms
-$site=eir.news,boost=7
-$site=larouchepub.com,boost=7
-$site=wallstreetonparade.com,boost=6
-$site=wolfstreet.com,boost=5
-$site=naturalnews.com,boost=4
-
-! Generic boosting
-*rust*$boost=6,site=wallstreetonparade.com
-*rust*$boost=6,site=wolfstreet.com
-*rust*$boost=6,site=gefira.org
-*rust*$boost=6,site=eir.news
-*rust*$boost=6,site=larouchepub.com
-*rust*$boost=6,site=unlimitedhangout.co 
-*rust*$boost=6,site=lewrockwell.com
-*rust*$boost=5,site=zerohedge.com
+$site=eir.news,boost
+$site=larouchepub.com,boost
+$site=wallstreetonparade.com,boost
+$site=wolfstreet.com,boost
+$site=naturalnews.com,boost
+$site=gefira.org,boost
+$site=unlimitedhangout.com,boost
+$site=sociable.co,boost
+$site=lewrockwell.com,boost
 
 ! Boost some results
-$boost=7,site=eir.news
-$boost=7,site=larouchepub.com
-$boost=4,site=mintpressnews.com
-$boost=4,site=dissidentvoice.org
-$boost=4,site=nakedcapitalism.com
-$boost=4,site=abnormalreturns.com
-$boost=4,site=strategic-culture.su
-$boost=3,site=financialsense.com
-$boost=3,site=peakprosperity.com
-$boost=3,site=wallstreetexaminer.com
-$boost=3,site=gata.org
-$boost=3,site=mises.org
-$boost=3,site=themoneyillusion.com
-$boost=3,site=theirrelevantinvestor.com
-$boost=3,site=calculatedriskblog.com
+$boost,site=eir.news
+$boost,site=larouchepub.com
+$boost,site=mintpressnews.com
+$boost,site=dissidentvoice.org
+$boost,site=nakedcapitalism.com
+$boost,site=abnormalreturns.com
+$boost,site=strategic-culture.su
+$boost,site=financialsense.com
+$boost,site=peakprosperity.com
+$boost,site=wallstreetexaminer.com
+$boost,site=gata.org
+$boost,site=mises.org
+$boost,site=themoneyillusion.com
+$boost,site=theirrelevantinvestor.com
+$boost,site=calculatedriskblog.com
+
+! Boost certain queries
+$newworldorder=$boost=5 & $greatreset=$boost=5
+$blacknobility=$boost=5 & $deepstate=$boost=5
+$NWO=$boost=5
+$globalists=$boost=5
+$technocrats=$boost=5
+$elite=$boost=5
+$elites=$boost=5
+$reset=$boost=5
+$great=$boost=5
 
 ! Boost Specific Terms
 /elites/$boost=5
@@ -66,8 +71,6 @@ $discard,site=apnews.com
 $discard,site=reuters.com
 $discard,site=nytimes.com
 $discard,site=theguardian.com
-
-! Discard factchekers
 $discard,site=WashingtonPost.com
 $discard,site=VerificationJunkie.com
 $discard,site=ABCNews.go.com
@@ -203,18 +206,6 @@ $downrank,site=msnbc.com
 $downrank,site=buzzfeednews.com
 $downrank,site=alternet.org
 $downrank,site=abcnews.go.com
-
-! Promote specific terms on quora 
-/rust-elites/$boost=5,site=quora.com
-/planned/$boost=5,site=quora.com
-/collapse/$boost=3,site=quora.com
-/triggered/$boost=4,site=quora.com
-/derivative/$boost=1,site=quora.com
-/gambling/$boost=1,site=quora.com
-/casino/$boost=1,site=quora.com
-/rigged/$boost=1,site=quora.com
-/fiat/$boost=4,site=quora.com
-/r/conspiracy/$boost=3,site=www.reddit.com
 
 ! Discard top websites
 $discard,site=google.com
@@ -1557,13 +1548,3 @@ $discard,site=wpdigital.net
 $discard,site=wsj.com
 $discard,site=wsj.net
 $discard,site=yahoo.com
-
-! Discard keywords
-$discard=5 conspiracy
-$discard=5 factcheck
-$discard=5 myth
-$discard=5 false
-
-! Boost certain queries
-$newworldorder=$boost=5 & $greatreset=$boost=5
-$blacknobility=$boost=5 & $deepstate=$boost=5
