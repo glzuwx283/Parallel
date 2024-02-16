@@ -23,32 +23,31 @@ $site=globalizacion.ca,boost
 $site=es.technocracy.news,boost
 $site=periodicolaesperanza.com,boost
 
-globalistas$indescription,boost
-
-! Keywords boosting mentealternativa.com
-delitos$intext,boost=7,site=mentealternativa.com
-crimen$boost,inurl
-onu$boost,inurl
-ONU$boost,inurl
-oms$boost,inurl
-OMS$boost,inurl
-genocidio$boost,inurl
-delitos$boost,inurl
-normalizar$boost,inurl
-pedofilia$boost,inurl
-globalistas$boost,inurl
-demanda$boost,inurl
-crímenes$boost,inurl
-oscuro$boost,inurl
-influencia$boost,inurl
-GENOCIDIO$boost,inurl
-marxista$boost,inurl
-WEF$boost,inurl
-davos$boost,inurl
-trans$boost,inurl
-Davos$boost,inurl
-2030$boost,inurl
-Globalismo$boost,inurl
+! Keywords boosting 
+delitos$intext,boost=7
+crimen$intext,boost=7
+onu$intext,boost=7
+ONU$intext,boost=7
+oms$intext,boost=7
+OMS$intext,boost=7
+genocidio$intext,boost=7
+delitos$intext,boost=7
+normalizar$intext,boost=7
+pedofilia$intext,boost=7
+globalistas$intext,boost=7
+demanda$intext,boost=7
+crímenes$intext,boost=7
+oscuro$intext,boost=7
+influencia$intext,boost=7
+GENOCIDIO$intext,boost=7
+marxista$intext,boost=7
+WEF$intext,boost=7
+davos$intext,boost=7
+trans$intext,boost=7
+Davos$intext,boost=7
+2030$intext,boost=7
+Globalismo$intext,boost=7
+Globalistas$intext,boost=7
 
 ! Boost main websites
 $boost,site=mentealternativa.com
