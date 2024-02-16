@@ -24,6 +24,8 @@ $site=es.technocracy.news,boost
 $site=periodicolaesperanza.com,boost
 
 ! Keywords boosting 
+mentealternativa$inurl,boost=9
+alertadigital$inurl,boost=9
 delitos$intext,boost=7
 crimen$intext,boost=7
 onu$intext,boost=7
