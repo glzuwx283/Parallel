@@ -4,53 +4,6 @@
 ! author: Realidades Paralelas
 ! avatar: #5100FF
 
-!Generic boosting
-globalistas$boost=8,site=alertadigital.com
-globalista$boost=8,site=alertadigital.com
-agenda$boost=8,site=alertadigital.com 
-globalistas$boost=8,site=mentealternativa.com
-globalista$boost=8,site=mentealternativa.com
-gates$boost=8,site=mentealternativa.com
-agenda$boost=8,site=mentealternativa.com
-globalismo$boost,site=mentealternativa.com
-reseteo$boost,site=mentealternativa.com
-2030$boost,site=mentealternativa.com
-elites$boost,site=mentealternativa.com
-globalistas$boost,site=globalizacion.ca
-globalistas$boost,site=es.technocracy.news
-$site=mentealternativa.com,boost
-$site=globalizacion.ca,boost
-$site=es.technocracy.news,boost
-$site=periodicolaesperanza.com,boost
-
-! Keywords boosting 
-mentealternativa$inurl,boost=9
-alertadigital$inurl,boost=9
-delitos$intext,boost=7
-crimen$intext,boost=7
-onu$intext,boost=7
-ONU$intext,boost=7
-oms$intext,boost=7
-OMS$intext,boost=7
-genocidio$intext,boost=7
-delitos$intext,boost=7
-normalizar$intext,boost=7
-pedofilia$intext,boost=7
-globalistas$intext,boost=7
-demanda$intext,boost=7
-crímenes$intext,boost=7
-oscuro$intext,boost=7
-influencia$intext,boost=7
-GENOCIDIO$intext,boost=7
-marxista$intext,boost=7
-WEF$intext,boost=7
-davos$intext,boost=7
-trans$intext,boost=7
-Davos$intext,boost=7
-2030$intext,boost=7
-Globalismo$intext,boost=7
-Globalistas$intext,boost=7
-
 ! Boost main websites
 $boost,site=mentealternativa.com
 $boost,site=vanityfea.blogspot.com
