@@ -18,7 +18,9 @@ $site=mentealternativa.com,boost
 $site=globalizacion.ca,boost
 $site=es.technocracy.news,boost
 $site=periodicolaesperanza.com,boost
+
 globalistas$indescription,boost
+/globalistas/*/agenda/$intitle
 
 ! Keywords boosting
 delitos$boost,intitle
@@ -778,3 +780,4 @@ $discard,site=biografiasyvidas.com
 $discard,site=iagua.es
 $discard,site=bloglenovo.es
 $discard,site=transhumanismo.org
+$discard,site=gatesfoundation.org
