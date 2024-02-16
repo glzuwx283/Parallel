@@ -162,12 +162,10 @@ $downrank,site=evangelicodigital.com
 $downrank,site=cesarvidal.com
 $downrank,site=acsilat.org
 $downrank,site=nuso.org
-$downrank,site=gaceta.es
 $downrank=5,site=rumble.com
 $downrank=5,site=bitchute.com
 $downrank=9,site=sdpnoticias.com
-
-
+$downrank=9,site=gaceta.es
 
 ! Discard major news websites
 $discard,site=rtve.es
@@ -177,13 +175,6 @@ $discard,site=telecinco.es
 $discard,site=ondacero.es
 $discard,site=cadenaser.com
 $discard,site=cope.es
-
-! Discard URLs with certain keywords
-/misinfo/$discard
-/fr/$discard
-/fandom/$discard
-/academia/$discard
-/bias/$discard
 
 !Discard certain websites with domains of other coutries
 .pe$discard
@@ -689,3 +680,5 @@ $discard,site=bloglenovo.es
 $discard,site=transhumanismo.org
 $discard,site=gatesfoundation.org
 $discard,site=cepei.org
+$discard,site=muyinteresante.es
+$discard,site=spanishrevolution.net
