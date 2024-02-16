@@ -8,6 +8,7 @@ $discard
 
 ! Boost main websites
 $boost=2,site=es.metapedia.org
+$boost,site=impactoespananoticias.com
 $boost,site=mentealternativa.com
 $boost,site=vanityfea.blogspot.com
 $boost,site=cigotoypersona.blogspot.com
