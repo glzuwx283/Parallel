@@ -4,6 +4,8 @@
 ! author: Realidades Paralelas
 ! avatar: #5100FF
 
+$discard
+
 ! Boost main websites
 $boost=2,site=es.metapedia.org
 $boost,site=mentealternativa.com
