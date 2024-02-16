@@ -4,13 +4,6 @@
 ! author: Realidades Paralelas
 ! avatar: #5100FF
 
-globalista$boost
-genocida$boost
-genocidio$boost
-crimen$boost
-criminal$boost
-maltusiano$boost
-
 ! Boost main websites
 $boost=2,site=es.metapedia.org
 $boost,site=mentealternativa.com
