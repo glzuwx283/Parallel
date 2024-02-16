@@ -4,7 +4,7 @@
 ! author: Realidades Paralelas
 ! avatar: #5100FF
 
-plan-kalergi$boost=9,inurl
+plan-kalergi$boost=9,site=alertadigital.com
 
 ! Boost main websites
 $boost=2,site=es.metapedia.org
