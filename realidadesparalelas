@@ -5,9 +5,13 @@
 ! avatar: #5100FF
 
 !Generic boosting
-globalistas$boost,site=mentealternativa.com
-gates$boost,site=mentealternativa.com
-agenda$boost,site=mentealternativa.com
+globalistas$boost=8,site=alertadigital.com
+globalista$boost=8,site=alertadigital.com
+agenda$boost=8,site=alertadigital.com 
+globalistas$boost=8,site=mentealternativa.com
+globalista$boost=8,site=mentealternativa.com
+gates$boost=8,site=mentealternativa.com
+agenda$boost=8,site=mentealternativa.com
 globalismo$boost,site=mentealternativa.com
 reseteo$boost,site=mentealternativa.com
 2030$boost,site=mentealternativa.com
@@ -20,7 +24,6 @@ $site=es.technocracy.news,boost
 $site=periodicolaesperanza.com,boost
 
 globalistas$indescription,boost
-/globalistas/*/agenda/$intitle
 
 ! Keywords boosting
 delitos$boost,intitle
@@ -781,3 +784,4 @@ $discard,site=iagua.es
 $discard,site=bloglenovo.es
 $discard,site=transhumanismo.org
 $discard,site=gatesfoundation.org
+$discard,site=cepei.org
