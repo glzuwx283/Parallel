@@ -5,24 +5,26 @@
 ! avatar: #5100FF
 
 !Generic boosting
-*globalistas*$boost,site=mentealternativa.com
-*gates*$boost,site=mentealternativa.com
-*agenda*$boost,site=mentealternativa.com
-*globalismo*$boost,site=mentealternativa.com
-*reseteo*$boost,site=mentealternativa.com
-*2030*$boost,site=mentealternativa.com
-*elites*$boost,site=mentealternativa.com
-*globalistas*$boost,site=globalizacion.ca
-*globalistas*$boost,site=es.technocracy.news
+globalistas$boost,site=mentealternativa.com
+gates$boost,site=mentealternativa.com
+agenda$boost,site=mentealternativa.com
+globalismo$boost,site=mentealternativa.com
+reseteo$boost,site=mentealternativa.com
+2030$boost,site=mentealternativa.com
+elites$boost,site=mentealternativa.com
+globalistas$boost,site=globalizacion.ca
+globalistas$boost,site=es.technocracy.news
 $site=mentealternativa.com,boost
 $site=globalizacion.ca,boost
 $site=es.technocracy.news,boost
 $site=periodicolaesperanza.com,boost
+globalistas$indescription,boost
 
 ! Keywords boosting
 delitos$boost,intitle
 delitos$boost,intext
 delitos$boost,inurl
+delitos$boost,indescription
 globalistas$boost,intitle
 globalistas$boost,intext
 globalistas$boost,inurl
