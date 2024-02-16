@@ -153,8 +153,8 @@ $boost,site=eir.news
 /r/Kissinger/$boost=5
 
 ! Downgrade certain websites
+$downrank=5,site=libertaddigital.com
 $downrank,site=okdiario.com
-$downrank,site=libertaddigital.com
 $downrank,site=libremercado.com
 $downrank,site=bibliotecapleyades.net
 $downrank,site=evangelicodigital.com
@@ -696,3 +696,6 @@ $discard,site=fortune.com
 $discard,site=axios.com
 $discard,site=genbeta.com
 $discard,site=wired.com
+$discard,site=politico.com
+$discard,site=georgesoros.com
+$discard,site=opensocietyfoundations.org
