@@ -4,7 +4,12 @@
 ! author: Realidades Paralelas
 ! avatar: #5100FF
 
-globalista$boost,site=alertadigital.com
+globalista$boost
+genocida$boost
+genocidio$boost
+crimen$boost
+criminal$boost
+maltusiano$boost
 
 ! Boost main websites
 $boost=2,site=es.metapedia.org
@@ -692,3 +697,10 @@ $discard,site=aldescubierto.org
 $discard,site=buscalibre.es
 $discard,site=podcasts.apple.com
 $discard,site=iberlibro.com
+$discard,site=paralibros.com
+$discard,site=salzburg.info
+$discard,site=people.com
+$discard,site=fortune.com
+$discard,site=axios.com
+$discard,site=genbeta.com
+$discard,site=wired.com
