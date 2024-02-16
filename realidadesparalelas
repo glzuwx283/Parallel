@@ -94,7 +94,6 @@ $boost,site=es.theepochtimes.com
 $boost,site=elordenmundial.com
 $boost,site=tierrapura.info
 $boost,site=impactoespananoticias.com
-$boost,site=burbuja.info
 $boost,site=restaurarg.blogspot.com
 $boost,site=infovaticana.com
 $boost,site=victimasdelospoliticos.org
@@ -202,6 +201,7 @@ $discard,site=cope.es
 .edu$discard
 
 ! Discard ceratain sites
+$discard,site=burbuja.info
 $discard,site=canalsur.es
 $discard,site=101tv.es
 $discard,site=diario16plus.com
