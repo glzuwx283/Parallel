@@ -153,7 +153,6 @@ $boost,site=eir.news
 /r/Kissinger/$boost=5
 
 ! Downgrade certain websites
-$downrank=5,site=libertaddigital.com
 $downrank,site=okdiario.com
 $downrank,site=libremercado.com
 $downrank,site=bibliotecapleyades.net
@@ -198,6 +197,7 @@ $discard,site=cope.es
 .edu$discard
 
 ! Discard ceratain sites
+$discard,site=libertaddigital.com
 $discard,site=burbuja.info
 $discard,site=canalsur.es
 $discard,site=101tv.es
